@@ -23,3 +23,10 @@ for (let i = 0; i < numeroFintiInvitati; i++) {
 }
 
 console.table(fintiInvitati);
+
+
+// crea lista nomi e lista cognomi
+// chiedi quanti nomi e cognomi casuali vuoi creare
+// prendi nome casuale
+// prendi cognome casuale
+// stampa lista di nomi e cognomi causali su console
